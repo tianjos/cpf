@@ -1,6 +1,6 @@
 {
   "name": "@tianjos/cpf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object Oriented CPF validator implementation",
   "repository": {
     "type": "git",
@@ -25,11 +25,16 @@
     "prepublishOnly": "npm run build",
     "test": "vitest"
   },
-  "keywords": ["CPF", "cpf"],
+  "keywords": [
+    "CPF",
+    "cpf"
+  ],
   "author": "tianjos",
   "license": "MIT",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@types/node": "^24.7.2",
     "tsup": "^8.5.0",
