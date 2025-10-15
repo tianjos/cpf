@@ -1,7 +1,15 @@
 {
   "name": "@tianjos/cpf",
   "version": "1.0.0",
-  "description": "Object Oriented CPF implementation",
+  "description": "Object Oriented CPF validator implementation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianjos/cpf"
+  },
+  "bugs": {
+    "url": "https://github.com/tianjos/cpf/issues"
+  },
+  "homepage": "https://github.com/tianjos/cpf#readme",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
